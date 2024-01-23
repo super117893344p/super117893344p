@@ -103,8 +103,165 @@ Languages and Tools:
 -->
 
 # Made with :purple_heart: using components from [Readme components](https://github.com/harish-sethuraman/readme-components)
+# hussainweb
+
+<img src="images/me.jpg" align="right" />
 
 
+**Social Media:**
+
+[![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
+[![GitHub](icons/github.png)](https://github.com/hussainweb)
+[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
+[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
+[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
+
+**Currently working with:**
+
+<a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
+<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
+<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
+<a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
+<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+<a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
+
+**Learning:**
+
+<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
+<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
+<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
+
+**Previously worked with:**
+
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
+<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
+<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
+<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
+<a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a>
+
+**Currently focused on building:**
+
+- [axl-template](https://github.com/axelerant/axl-template)
+- [db-docker](https://github.com/axelerant/db-docker)
+- [drupalqa](https://github.com/hussainweb/drupalqa)
+
+[How did I build this?](https://youtu.be/UqNbBe3lVCI)
+
+---
+
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+
+
+<table>
+  <thead>
+    <tr>
+      <th>📈 Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
+      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+ <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+    </p>
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
+- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+- :rocket: Always ready to collaborate for Dev Experiments
+- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+
+<h2 align="left">:heart: Let's get connected:</h2>
+
+<h1>Welcome to my humble abode in the Digital World..</h1> 
+
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+
+## :computer: Technologies I Love
+* Flutter
+* Machine Learning
+* Data Science
+* Frontend and Backend Web Development
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+
+## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+ 
+ ## Technologies I Use
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=kittinan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<p align="left">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+</p>
+
+[![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kittinan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
 <!--
 **super117893344p/super117893344p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

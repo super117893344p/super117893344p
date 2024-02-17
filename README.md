@@ -1,7 +1,5 @@
 ### 朋友们,大家好啊, 我浏览的星星项目都是精品哦, stars不少于10k, 欢迎大家阅览  👋
-<div align="center">
-	<img src="https://github.com/sindresorhus/sindresorhus/raw/main/main.gif" alt="Hello. I'm RIver I like code. Thanks for reading.">
-</div>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=super117893344p&show_icons=true&include_all_commits=true)](https://github.com/super117893344p/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super117893344p&layout=compact)](https://github.com/super117893344p/github-readme-stats)
